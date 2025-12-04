@@ -59,6 +59,10 @@ public class SalmonThings {
             event.accept(ModItems.FISHY);
             event.accept(ModItems.RAW_FISHY);
         }
+
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.SALMON_BLOCK);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
