@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "misc",
+  "ingredients": [
+    {
+      "item": "salmonthings:salmon_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "salmonthings:salmon_ingot"
+  }
+}

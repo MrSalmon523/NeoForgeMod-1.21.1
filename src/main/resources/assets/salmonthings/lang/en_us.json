@@ -1,5 +1,10 @@
 {
-  "item.salmonthings.fishy": "Fishy",
-  "item.salmonthings.raw_fishy": "Raw Fishy",
-  "block.salmonthings.salmon_block": "Salmon Block"
+  "item.salmonthings.raw_salmon_chunk": "Raw Salmon Chunk",
+  "item.salmonthings.salmon_ingot": "Salmon Ingot",
+
+  "block.salmonthings.salmon_block": "Salmon Block",
+  "block.salmonthings.salmon_ore": "Salmon Ore",
+
+  "creativetab.salmonthings.salmon_things_tab": "Salmon Things",
+  "creativetab.salmonthings.salmon_blocks": "Salmon Blocks"
 }

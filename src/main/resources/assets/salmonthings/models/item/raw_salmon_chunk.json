@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "salmonthings:item/raw_fishy"
+    "layer0": "salmonthings:item/raw_salmon_chunk"
   }
 }
