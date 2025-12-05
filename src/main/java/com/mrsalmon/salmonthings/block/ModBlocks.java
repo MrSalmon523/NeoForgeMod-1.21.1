@@ -30,6 +30,7 @@ public class ModBlocks {
                     BlockBehaviour.Properties.of()
                             .strength(2f)
                             .requiresCorrectToolForDrops()
+                            .lightLevel(state -> 1)
                             .sound(SoundType.STONE)));
 
 
